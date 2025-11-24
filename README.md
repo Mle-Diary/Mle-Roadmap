@@ -4,7 +4,6 @@
 # Machine Learning Engineer Roadmap (2025)
 
 # Зарплаты (2025)
-## 🇷🇺 Россия (Москва)
 ### Machine Learning Engineer
 - Junior: **150–220 тыс ₽**
 - Middle: **200–330 тыс ₽**
