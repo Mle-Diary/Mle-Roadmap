@@ -5,7 +5,7 @@
 
 # Зарплаты (2025)
 ### Machine Learning Engineer
-- Junior: **150–220 тыс ₽**
+- Junior: **100–200 тыс ₽**
 - Middle: **200–330 тыс ₽**
 - Senior: **от 330 тыс ₽**
 ------
