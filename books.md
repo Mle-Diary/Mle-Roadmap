@@ -4,7 +4,7 @@
 
 # Книги 
 
-## Код
+## Код и алгоритмы
 <table align="center" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
@@ -29,9 +29,13 @@
       <img src="image-10.png" alt="Читсый код" width="750">
     </a>
   </td>
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
+    <a href="https://drive.google.com/file/d/1c1BrsIaPu7FwRn600SUx9KH0Wx5axvho/view?usp=sharing">
+      <img src="image-13.png" alt="Читсый код" width="750">
+    </a>
+  </td>
 </tr>
 </table>
-
 
 ## MLE
 <table align="center" style="border: none; border-collapse: collapse;">
@@ -39,6 +43,11 @@
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1S6_X5h3Po7Nklj3r8LVrGXfVbV3VulR1/view?usp=sharing">
       <img src="image-5.png" alt="Data Mining" width="750">
+    </a>
+  </td>
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
+    <a href="https://drive.google.com/file/d/1y4unGDMGvn9fYUuTGm2Oak3KQTQmofEf/view?usp=sharing">
+      <img src="image-14.png" alt="Data Mining" width="750">
     </a>
   </td>
 </tr>
@@ -87,6 +96,11 @@
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1sdI8T1z1GMfKLun8qNSzQr1fggwfD_hD/view?usp=sharing">
       <img src="image-8.png" alt="Data Science from Scratch" width="750">
+    </a>
+  </td>
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
+    <a href="https://drive.google.com/file/d/1qw6opPfKQDc7R8V6UrmLiNhM6oThPDZz/view?usp=sharing">
+      <img src="image-12.png" alt="Data Science from Scratch" width="750">
     </a>
   </td>
 </tr>
