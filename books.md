@@ -9,17 +9,18 @@
 <tr style="border: none;">
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1DiCdEa6WdDpaDlDJtPxA-c86FzxQNSIc/view?usp=sharing">
-      <img src="image-1.png" alt="Data Science from Scratch" width="550">
+      <img src="image-1.png" alt="Data Science from Scratch" width="800">
     </a>
   </td>
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1CcKwUG8shchXGwOLNlvPKW0utxDyXWyK/view?usp=sharing">
-      <img src="image-2.png" alt="Handbook" width="550">
+      <img src="image-2.png" alt="Handbook" width="800">
     </a>
   </td>
   <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1gWIgpTnwxnPsxy1W_hSwwUjT0-omrneJ/view?usp=sharing">
-    <img src="image-3.png" alt="Читсый код" width="550">
+      <img src="image-3.png" alt="Читсый код" width="800">
+    </a>
   </td>
 </tr>
 </table>
