@@ -1,6 +1,6 @@
 Трек для развития в сфере MLE. Полный путь: от базовой теории до продвинутых MLOps–практик и построения продакшн-ML систем. Автор https://t.me/aesthetic_mlops. Материалы будут пополняться
 
-<img width="1139" height="715" alt="Снимок экрана 2025-11-24 в 12 05 34 PM" src="https://github.com/user-attachments/assets/22c12858-b00b-4b27-991e-346429d509a4" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/1ed3682c-a92a-4611-af80-57490a701866" />
 
 
 # Зарплаты (2025) 
