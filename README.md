@@ -1,7 +1,5 @@
 Трек для развития в сфере MLE. Полный путь: от базовой теории до продвинутых MLOps–практик и построения продакшн-ML систем. Автор https://t.me/aesthetic_mlops. Материалы будут пополняться
-<img width="1172" height="752" alt="image" src="https://github.com/user-attachments/assets/19affc3a-83ea-4ead-a52d-c9596c8a948d" />
-
-
+<img width="1182" height="762" alt="image" src="https://github.com/user-attachments/assets/1cc7a2a5-0697-4863-bcd9-008441f0e61b" />
 
 # Зарплаты (2025) 
 ### Machine Learning Engineer, источник Habr Карьера
